@@ -8,7 +8,7 @@ package deheap_test
 import (
 	"fmt"
 
-	"github.com/aalpar/deheap"
+	"github.com/csimplestring/deheap"
 )
 
 // An IntHeap is a min-heap of ints.
